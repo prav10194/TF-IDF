@@ -24,7 +24,7 @@ Commands
 Output
 -------
      
-     ![alt text](https://github.com/prav10194/TF-IDF/blob/master/screenshots/CommandsVideo.gif "Video")
+     ![alt text](https://github.com/prav10194/TF-IDF/blob/master/screenshots/output.png "Output")
      
      
      
